@@ -4,4 +4,10 @@
 // 82 -> 10
 // 9012 -> 12
 
-Console.WriteLine("Hello, World!");
+Console.Write("Enter a integer: ");
+string St = Convert.ToString(Console.ReadLine());
+
+int res = 0;
+for(int count = 0; count < St.Length; count++)
+    res = res + int.Parse(St[count].ToString());
+Console.WriteLine($"Sum digits in the number -> {res}");

@@ -4,4 +4,14 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Enter a number: ");
+int n = int.Parse(Console.ReadLine());
+Console.WriteLine("Enter a degree: ");
+int d = int.Parse(Console.ReadLine());
+
+int i, res = 1;
+for (i = 0; i < d; i++) {
+    res = res * n;
+}
+
+Console.WriteLine($"Rasult -> {res}");

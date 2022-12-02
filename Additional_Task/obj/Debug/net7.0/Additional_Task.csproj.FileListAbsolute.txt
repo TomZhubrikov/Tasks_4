@@ -1,0 +1,15 @@
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\bin\Debug\net7.0\Additional_Task.exe
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\bin\Debug\net7.0\Additional_Task.deps.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\bin\Debug\net7.0\Additional_Task.runtimeconfig.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\bin\Debug\net7.0\Additional_Task.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\bin\Debug\net7.0\Additional_Task.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.csproj.AssemblyReference.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.AssemblyInfoInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.AssemblyInfo.cs
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.csproj.CoreCompileInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\refint\Additional_Task.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\Additional_Task.genruntimeconfig.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\4_practic\Additional_Task\obj\Debug\net7.0\ref\Additional_Task.dll
