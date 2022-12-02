@@ -3,28 +3,26 @@
 // если K – положительное и влево, если отрицательное.
 
 int[] Arr = {8, 1, 6, 2, 5};
-int i, c, K = 1;
-c = Arr[i];
-for (i = Arr.Length - 1; i >= 0; i--) {
-    c = Arr[i];
-    if (i - K < 0) {
-        Arr[i] = c;
+int[] help_arr = new int[5];
+
+Console.Write("Enter a value 'K' -> ");
+int i, K = int.Parse(Console.ReadLine());
+
+if (K > 0) {
+    for (i = 0; i < Arr.Length; i++) {
+        if (i - K < 0) 
+            help_arr[i] = Arr[Arr.Length + i - K];
+        else 
+            help_arr[i] = Arr[i - K];
     }
-    else {
-        Arr[i] = Arr[i - K]; ??????????????????????????????????????
+}
+else {
+    for (i = 0; i < Arr.Length; i++) {
+        if (i + Math.Abs(K) > Arr.Length - 1) 
+            help_arr[i] = Arr[i + Math.Abs(K) - Arr.Length];
+        else 
+            help_arr[i] = Arr[i + Math.Abs(K)];
     }
 }
 
-
-// Console.Write("Enter a value 'K' -> ");
-// int i, c = 0, K = int.Parse(Console.ReadLine());
-
-// if (K > 0) {
-//     for (i = 0; i < Arr.Length; i++) {
-//         c = 
-//     }
-// }
-// else {
-    
-// }
-Console.Write($"[{string.Join(", ", Arr)}]");
+Console.Write($"[{string.Join(", ", help_arr)}]");
